@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feedback_2</string>
+    <string name="text">端から等間隔で切りましょう</string>
+    <string name="n_text">切るまでの流れ</string>
+</resources>
